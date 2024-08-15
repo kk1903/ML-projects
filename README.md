@@ -1,2 +1,2 @@
-# coursera-test
+# ML Projects
 Coursera test repository
